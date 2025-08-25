@@ -26,7 +26,7 @@ function ToggleVisibility() {
 
       {isVisible && (
         <p style={{ maxWidth: '400px', margin: 'auto' }}>
-          Blank content is displayed here.
+          Superman can tho.
         </p>
       )}
     </div>
